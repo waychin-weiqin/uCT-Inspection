@@ -19,8 +19,8 @@ The application uses a U-Net architecture model pre-trained on synthetic data an
 
 1. **Clone the Repository:**
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/waychin-weiqin/uCT-Inspection.git
+    cd https://github.com/waychin-weiqin/uCT-Inspection.git
     ```
 
 2. **Install Dependencies:**
@@ -47,6 +47,7 @@ The application uses a U-Net architecture model pre-trained on synthetic data an
 1. **Upload an Image:**
     - Use the sidebar to upload an image for inspection.
     - The image should be in `jpg`, `jpeg`, or `png` format.
+    - You can use the sample images included in this repository.
 
 2. **Set Measurement Scale:**
     - Optionally, input the pixel size of the image for measurements.
