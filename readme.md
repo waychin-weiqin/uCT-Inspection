@@ -6,6 +6,9 @@ This application is designed to perform automated visual inspection for micro-CT
 
 The application uses a U-Net architecture model pre-trained on synthetic data and fine-tuned on µCT data. The model predicts six keypoints on the rivet, which are used to calculate various measurements.
 
+## Demo
+![](./asset/demo.gif)
+
 ## Features
 
 - Predicts keypoints on the rivet.
