@@ -65,4 +65,4 @@ The application uses a U-Net architecture model pre-trained on synthetic data an
 
 ## Contact
 
-For any issues or questions, please contact [your_email@example.com].
+For any issues or questions, please contact [wei.qin.chuah@rmit.edu.au].
